@@ -1,1 +1,1 @@
-Design challenge entry for The Wander Club https://isaiah-quindo.github.io/the-wander-club
+Design Exercise entry for The Wander Club https://isaiah-quindo.github.io/the-wander-club
